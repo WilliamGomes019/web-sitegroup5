@@ -1,0 +1,42 @@
+body{
+    font-size: 16px;
+}
+@media (min-width: 768px){
+    body{
+        font-size: 18px;
+    }
+}
+
+h1{
+    font-size: 17px;
+    font-style: italic;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #1d1d1d;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+img{
+    width: 40%;
+    height: 40%;
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
